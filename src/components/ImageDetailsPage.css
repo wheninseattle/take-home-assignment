@@ -1,0 +1,11 @@
+.Artwork {
+	width: auto;
+	height: 50vh;
+}
+
+.Details {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin: 5px 0px 10px;
+}
